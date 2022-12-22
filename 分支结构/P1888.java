@@ -14,7 +14,6 @@ public class P1888 {
         int res = gcd(arr[0],arr[2]);
         //TODO 要约分！！！！！！！
         System.out.println(arr[0] / res + "/" + arr[2] / res);
-
     }
 
     public static int gcd(int a,int b){
